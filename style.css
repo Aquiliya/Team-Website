@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: rgb(60, 60, 90);
+    background-color: #005fa3;;
     color: rgb(255, 255, 255);
     padding: 2rem;
     text-align: center;
@@ -17,7 +17,7 @@ header {
 nav {
     line-height: 1.5;
     font-size: medium;
-    background: rgb(64, 67, 88);
+    background-color: #007acc;
     padding: 1rem;
     text-align: left;
     text-align: center;
@@ -28,7 +28,7 @@ main {
     font-style: normal;
     font-size: xx-large;
     font-weight: 400;
-    background: rgb(64, 67, 88);
+    background-color: #007acc;
     color: black;
     padding: 1rem;
     text-align: center;
