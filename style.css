@@ -26,6 +26,7 @@ nav {
 main {
     line-height: 1.2;
     font-style: normal;
+    font-size: 20px;
     font-weight: 400;
     background: rgb(64, 67, 88);
     color: black;
